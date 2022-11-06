@@ -1,0 +1,57 @@
+body{
+  background-image: url(calming.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1{
+  color:white;
+  font-size:50px;
+  font-family: sans-serif;
+}
+
+h2{
+  color:white;
+  font-family: sans-serif;
+}
+
+h3{
+  color:white;
+  font-family: sans-serif;
+}
+
+.messages{
+  color:white;
+}
+
+h3{
+  margin-top: 40px;
+}
+.messagearea{
+  display:block;
+}
+
+.messages span{
+  display:block;
+}
+
+.message li{
+  display:inline-block;
+}
+
+ul{
+  display:inline-block;
+}
+
+.message span{
+  display:block;
+}
+
+
+/* form{
+  border:2px solid white;
+  width:20%;
+  margin:auto;
+  display:flex;
+  justify-content:
+} */
